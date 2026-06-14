@@ -7,7 +7,7 @@ channels-redis==4.2.0
 daphne==4.1.2
 
 psycopg2-binary==2.9.9
-psycopg==3.2.9
+
 
 django-cors-headers==4.3.1
 python-decouple==3.8
